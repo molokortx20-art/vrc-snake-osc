@@ -1,0 +1,17 @@
+# Build artifacts
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+
+# Editor and IDE files
+.vs/
+*.sln
+*.vcxproj*
+.vscode/
+
+# Intermediate files
+bin/*.pdb
+bin/*.ilk
